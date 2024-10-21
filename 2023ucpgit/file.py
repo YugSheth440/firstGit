@@ -1,13 +1,4 @@
-<<<<<<< HEAD
 
-# Python Program illustrating
-# dot product of two vectors
-
-=======
-#branch parallel
- 
->>>>>>> parallel
-# Importing numpy module
 import numpy as np
 
 # Taking two 1D array
