@@ -16,5 +16,5 @@ b = 7 + 6j
 
 # Calculating dot product using dot()
 print(np.dot(a, b))
-print("changes")
+
 
