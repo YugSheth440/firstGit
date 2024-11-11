@@ -49,6 +49,7 @@ A refererence to footnote[^1].
 # Using alerts
 > [!NOTE]
 > these is note alert
+
 > [!TIP]
 > This is a top alert.
 
